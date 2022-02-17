@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1544668913 source:e:\mustafa\fci\programming 2\codes of prog2 traninng\ass3grouptaskthirdtrying\main.cpp
+	<iostream>
+	<cstdlib>
+	"time.h"
+	"appointment.h"
+	"DayAppointment.h"
+	"calendar.h"
+
+1543791957 source:e:\mustafa\fci\programming 2\codes of prog2 traninng\ass3grouptaskthirdtrying\src\appointment.cpp
+	<iostream>
+	"appointment.h"
+
+1544665737 e:\mustafa\fci\programming 2\codes of prog2 traninng\ass3grouptaskthirdtrying\include\time.h
+	<iostream>
+
+1544665957 e:\mustafa\fci\programming 2\codes of prog2 traninng\ass3grouptaskthirdtrying\include\appointment.h
+	"time.h"
+
+1543791808 source:e:\mustafa\fci\programming 2\codes of prog2 traninng\ass3grouptaskthirdtrying\src\time.cpp
+	<iostream>
+	"time.h"
+	<cstdlib>
+
+1544668322 source:e:\mustafa\fci\programming 2\codes of prog2 traninng\ass3grouptaskthirdtrying\src\dayappointment.cpp
+	"DayAppointment.h"
+	<cstdlib>
+
+1544667999 e:\mustafa\fci\programming 2\codes of prog2 traninng\ass3grouptaskthirdtrying\include\dayappointment.h
+	"appointment.h"
+
+1544667690 source:e:\mustafa\fci\programming 2\codes of prog2 traninng\ass3grouptaskthirdtrying\src\calendar.cpp
+	"calendar.h"
+	<cstdlib>
+
+1544668823 e:\mustafa\fci\programming 2\codes of prog2 traninng\ass3grouptaskthirdtrying\include\calendar.h
+	"DayAppointment.h"
+
